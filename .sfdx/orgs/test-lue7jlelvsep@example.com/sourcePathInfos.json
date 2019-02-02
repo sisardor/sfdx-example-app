@@ -1,0 +1,645 @@
+[
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549138935676,
+            "changeTime": 1549138935676,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549138935677,
+            "changeTime": 1549138935677,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549149071240,
+            "changeTime": 1549149071240,
+            "contentHash": "da7c532ef86878a3b7315e2e6cee32eee5f76d8b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549138935708,
+            "changeTime": 1549138935708,
+            "contentHash": "69f5572210b4770f60b9240826a1ee29381f3a85",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\Demo",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\Demo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549138935707,
+            "changeTime": 1549138935707,
+            "contentHash": "f56588b842613a9f0f43ce91bdbd6858f369c0fc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\Demo\\Demo.app",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\Demo\\Demo.app",
+            "isDirectory": false,
+            "size": 621,
+            "modifiedTime": 1549138935680,
+            "changeTime": 1549138935680,
+            "contentHash": "6432433d3dc2b49a77aa8b9b46df1061d7c1dbdc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\Demo\\Demo.app-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\Demo\\Demo.app-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1549138935681,
+            "changeTime": 1549138935681,
+            "contentHash": "b2657a8bf69fccee8bfb65741829c3b3fd4c6778",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+            "isDirectory": false,
+            "size": 214,
+            "modifiedTime": 1549138935684,
+            "changeTime": 1549138935684,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+            "isDirectory": false,
+            "size": 12,
+            "modifiedTime": 1549138935689,
+            "changeTime": 1549138935689,
+            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+            "isDirectory": false,
+            "size": 667,
+            "modifiedTime": 1549138935693,
+            "changeTime": 1549138935693,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+            "isDirectory": false,
+            "size": 70,
+            "modifiedTime": 1549138935696,
+            "changeTime": 1549138935696,
+            "contentHash": "71e888bad43bee50e7680e4cdabf4d0ffc6e5de6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1549138935700,
+            "changeTime": 1549138935700,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+            "isDirectory": false,
+            "size": 55,
+            "modifiedTime": 1549138935707,
+            "changeTime": 1549138935707,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\EventDemo",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\EventDemo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549138935727,
+            "changeTime": 1549138935727,
+            "contentHash": "89ade855ead422f0901e60a0810e6618f694ec88",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\EventDemo\\EventDemo.auradoc",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\EventDemo\\EventDemo.auradoc",
+            "isDirectory": false,
+            "size": 214,
+            "modifiedTime": 1549138935708,
+            "changeTime": 1549138935708,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\EventDemo\\EventDemo.cmp",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\EventDemo\\EventDemo.cmp",
+            "isDirectory": false,
+            "size": 484,
+            "modifiedTime": 1549148275132,
+            "changeTime": 1549148275132,
+            "contentHash": "4cb80f92dd44594b1e6736dbc3e45296dfdc6cba",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\EventDemo\\EventDemo.cmp-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\EventDemo\\EventDemo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1549138935716,
+            "changeTime": 1549138935716,
+            "contentHash": "e5efb565a78d4e8100e2919711991e1b35d88962",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\EventDemo\\EventDemo.css",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\EventDemo\\EventDemo.css",
+            "isDirectory": false,
+            "size": 12,
+            "modifiedTime": 1549138935717,
+            "changeTime": 1549138935717,
+            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\EventDemo\\EventDemo.design",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\EventDemo\\EventDemo.design",
+            "isDirectory": false,
+            "size": 42,
+            "modifiedTime": 1549138935721,
+            "changeTime": 1549138935721,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\EventDemo\\EventDemo.svg",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\EventDemo\\EventDemo.svg",
+            "isDirectory": false,
+            "size": 667,
+            "modifiedTime": 1549138935722,
+            "changeTime": 1549138935722,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\EventDemo\\EventDemoController.js",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\EventDemo\\EventDemoController.js",
+            "isDirectory": false,
+            "size": 2975,
+            "modifiedTime": 1549142853690,
+            "changeTime": 1549142853690,
+            "contentHash": "59020da29fdc9ae8a986e8ee3712d6b360275c0e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\EventDemo\\EventDemoHelper.js",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\EventDemo\\EventDemoHelper.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1549138935726,
+            "changeTime": 1549138935726,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\EventDemo\\EventDemoRenderer.js",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\aura\\EventDemo\\EventDemoRenderer.js",
+            "isDirectory": false,
+            "size": 55,
+            "modifiedTime": 1549138935727,
+            "changeTime": 1549138935727,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549138935740,
+            "changeTime": 1549138935740,
+            "contentHash": "d11653963a9f69dba0843c50c3c65bd8200660fe",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\lwc\\helloWorld",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\lwc\\helloWorld",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549138935739,
+            "changeTime": 1549138935739,
+            "contentHash": "c4f5c53c9e3fa98e7b41f54b72a11b17045711fb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.html",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.html",
+            "isDirectory": false,
+            "size": 308,
+            "modifiedTime": 1549138935731,
+            "changeTime": 1549138935731,
+            "contentHash": "e51f2ae3c4820f048d73c24f3720701c265bf9f8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js",
+            "isDirectory": false,
+            "size": 215,
+            "modifiedTime": 1549138935735,
+            "changeTime": 1549138935735,
+            "contentHash": "9d56bf7e12bbcf32fe64d1df41fb73fee184b464",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js-meta.xml",
+            "isDirectory": false,
+            "size": 394,
+            "modifiedTime": 1549138935739,
+            "changeTime": 1549138935739,
+            "contentHash": "43e09a8cc7867b32111cc9ec19472a91c9e8640e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\lwc\\lwcEventRaise",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\lwc\\lwcEventRaise",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549138935758,
+            "changeTime": 1549138935758,
+            "contentHash": "b268c2b479269045230f8c3ca80c6d8455a0da5e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\lwc\\lwcEventRaise\\lwcEventRaise.html",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\lwc\\lwcEventRaise\\lwcEventRaise.html",
+            "isDirectory": false,
+            "size": 194,
+            "modifiedTime": 1549138935743,
+            "changeTime": 1549138935743,
+            "contentHash": "b4f2c52705fbb6ee47eb5c17c247fe257cb81b5f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\lwc\\lwcEventRaise\\lwcEventRaise.js",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\lwc\\lwcEventRaise\\lwcEventRaise.js",
+            "isDirectory": false,
+            "size": 351,
+            "modifiedTime": 1549138935754,
+            "changeTime": 1549138935754,
+            "contentHash": "553943ddb274914340854e1ca7a3bf4a8bb379cd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\lwc\\lwcEventRaise\\lwcEventRaise.js-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\lwc\\lwcEventRaise\\lwcEventRaise.js-meta.xml",
+            "isDirectory": false,
+            "size": 232,
+            "modifiedTime": 1549138935758,
+            "changeTime": 1549138935758,
+            "contentHash": "6025ef29c6a945a711407260ef944e3a47d73c5e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549138971063,
+            "changeTime": 1549138971063,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\staticresources\\myfiles.resource-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\staticresources\\myfiles.resource-meta.xml",
+            "isDirectory": false,
+            "size": 222,
+            "modifiedTime": 1549149070960,
+            "changeTime": 1549149070960,
+            "contentHash": "2a135e336ba8b6bc150d4e94f6abb174d496a0f4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\staticresources\\myfiles\\compressed.tracemonkey-pldi-09.pdf",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\staticresources\\myfiles\\compressed.tracemonkey-pldi-09.pdf",
+            "isDirectory": false,
+            "size": 1016315,
+            "modifiedTime": 1549149071155,
+            "changeTime": 1549149071155,
+            "contentHash": "0d281938d3ff2377541704cab6ba1c4408420733",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\staticresources\\myfiles\\pdf.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\staticresources\\myfiles\\pdf.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 319840,
+            "modifiedTime": 1549149496456,
+            "changeTime": 1549149520962,
+            "isWorkspace": false,
+            "contentHash": "81113347df7a0b4e1fbd5cf42b2f2753d1a5f761"
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\staticresources\\myfiles\\pdf.js.map",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\staticresources\\myfiles\\pdf.js.map",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1189764,
+            "modifiedTime": 1549149484849,
+            "changeTime": 1549149520944,
+            "isWorkspace": false,
+            "contentHash": "c07f575579cf306f08e7e6fbf21a826d0265c87c"
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\staticresources\\myfiles\\pdf.worker.js",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\staticresources\\myfiles\\pdf.worker.js",
+            "isDirectory": false,
+            "size": 762200,
+            "modifiedTime": 1549149502902,
+            "changeTime": 1549149062113,
+            "contentHash": "9088c69f2916d12c24e84ebe86b9fd383741741d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\staticresources\\myfiles\\pdf.worker.js.map",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\staticresources\\myfiles\\pdf.worker.js.map",
+            "isDirectory": false,
+            "size": 3108460,
+            "modifiedTime": 1549149488255,
+            "changeTime": 1549149046688,
+            "contentHash": "4adf0ecbb9730c157c49c3da4131eb9c62dbcb5e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "size": 6383,
+            "modifiedTime": 1549149071245,
+            "changeTime": 1549149071245,
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\staticresources",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549149071153,
+            "changeTime": 1549149071153,
+            "contentHash": "38f5e694a5e6951ea48a63b78a0d08716b352526",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\staticresources\\myfiles",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\staticresources\\myfiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549149520962,
+            "changeTime": 1549149251249,
+            "contentHash": "abe2b9f107105772a8007b5af909e1512345c23f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\settings",
+        {
+            "sourcePath": "c:\\Users\\Sardor Isakov\\Documents\\GitHub\\sfdx-example-app\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549149071244,
+            "changeTime": 1549149071244,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ]
+]

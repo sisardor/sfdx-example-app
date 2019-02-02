@@ -1,7 +1,7 @@
 <aura:component>
   <!-- Stand-alone static resources -->
-  <ltng:require scripts="{!$Resource.pdfjs + '/build/pdf.js'}" />
-  <ltng:require scripts="{!$Resource.pdfjs + '/build/pdf.worker.js'}" afterScriptsLoaded="{!c.scriptsLoaded}"/>
+  <ltng:require scripts="{!$Resource.myfiles + '/pdf.js'}" />
+  <ltng:require scripts="{!$Resource.myfiles + '/pdf.worker.js'}" afterScriptsLoaded="{!c.scriptsLoaded}"/>
 
 
 
