@@ -1,0 +1,15 @@
+<aura:component>
+  <!-- Stand-alone static resources -->
+  <ltng:require scripts="{!$Resource.pdfjs + '/build/pdf.js'}" />
+  <ltng:require scripts="{!$Resource.pdfjs + '/build/pdf.worker.js'}" afterScriptsLoaded="{!c.scriptsLoaded}"/>
+
+
+
+  <aura:attribute name="txtFromEvent" type="String"/>
+
+  <div class="slds">
+    In Parent Lighting Component
+    <p>Data from lwc - {!v.txtFromEvent}</p>
+    <c:lwcEventRaise ontxtChange="{!c.lwcEventHandler}"/>
+  </div>
+</aura:component>
