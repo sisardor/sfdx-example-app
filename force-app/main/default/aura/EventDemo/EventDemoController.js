@@ -4,7 +4,7 @@
       component.set('v.txtFromEvent', eventData);
     },
     scriptsLoaded: function(component, event, helper) {
-      var url = 'https://drive-fun-1832-dev-ed.lightning.force.com/resource/1549142716000/myfiles/compressed.tracemonkey-pldi-09.pdf';
+      var url = 'https://java-innovation-7128-dev-ed.lightning.force.com/resource/1549152105000/myfiles/compressed.tracemonkey-pldi-09.pdf';
       var pdfDoc = null,
           pageNum = 1,
           pageRendering = false,
@@ -82,7 +82,8 @@
         queueRenderPage(pageNum);
       }
       document.getElementById('next').addEventListener('click', onNextPage);
-
+      var pdfjsLib = window["pdfjs-dist/build/pdf"]
+      // pdfjsLib.GlobalWorkerOptions.workerSrc = window["pdfjs-dist/build/pdf.worker"]
       /**
        * Asynchronously downloads PDF.
        */

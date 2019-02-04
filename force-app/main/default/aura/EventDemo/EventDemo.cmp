@@ -1,7 +1,8 @@
 <aura:component>
   <!-- Stand-alone static resources -->
+  <!-- <ltng:require scripts="{!$Resource.myfiles + '/custom-elements-es5-adapter.js'}" />
   <ltng:require scripts="{!$Resource.myfiles + '/pdf.js'}" />
-  <ltng:require scripts="{!$Resource.myfiles + '/pdf.worker.js'}" afterScriptsLoaded="{!c.scriptsLoaded}"/>
+  <ltng:require scripts="{!$Resource.myfiles + '/pdf.worker.js'}" afterScriptsLoaded="{!c.scriptsLoaded}"/> -->
 
 
 

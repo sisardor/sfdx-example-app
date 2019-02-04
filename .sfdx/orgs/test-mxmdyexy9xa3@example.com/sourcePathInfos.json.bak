@@ -4,10 +4,10 @@
         {
             "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app",
             "isDirectory": true,
-            "size": 102,
-            "modifiedTime": 1549086329000,
-            "changeTime": 1549086329000,
-            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "size": 136,
+            "modifiedTime": 1549152443000,
+            "changeTime": 1549152443000,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -19,10 +19,10 @@
         {
             "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main",
             "isDirectory": true,
-            "size": 102,
-            "modifiedTime": 1549086329000,
-            "changeTime": 1549086329000,
-            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "size": 136,
+            "modifiedTime": 1549152443000,
+            "changeTime": 1549152443000,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -34,10 +34,10 @@
         {
             "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default",
             "isDirectory": true,
-            "size": 136,
-            "modifiedTime": 1549086329000,
-            "changeTime": 1549086329000,
-            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "size": 238,
+            "modifiedTime": 1549161037000,
+            "changeTime": 1549152450000,
+            "contentHash": "082211f51d674b467336241ab0b93d89766649ba",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -55,7 +55,8 @@
             "contentHash": "69f5572210b4770f60b9240826a1ee29381f3a85",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -69,7 +70,8 @@
             "contentHash": "d11653963a9f69dba0843c50c3c65bd8200660fe",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -98,7 +100,8 @@
             "contentHash": "149119427da5011ad37f59e3cf8e7c3d31a1e620",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -112,7 +115,8 @@
             "contentHash": "e3242bb6c8af262585672d3beed1c8d72298bd23",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -126,7 +130,8 @@
             "contentHash": "c981bc7c2d6be0cd2fa88637481cd9457fcfba42",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -134,14 +139,13 @@
         {
             "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world",
             "isDirectory": true,
-            "size": 272,
-            "modifiedTime": 1549086340000,
-            "changeTime": 1549086340000,
-            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "size": 374,
+            "modifiedTime": 1549152443000,
+            "changeTime": 1549152443000,
+            "contentHash": "807b7aaa92451ec641bfc0e0a5d2bf0e1e9005a1",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
@@ -154,7 +158,9 @@
             "changeTime": 1549089503000,
             "contentHash": "f56588b842613a9f0f43ce91bdbd6858f369c0fc",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -162,12 +168,13 @@
         {
             "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/aura/Demo/Demo.app",
             "isDirectory": false,
-            "size": 464,
-            "modifiedTime": 1549137067000,
-            "changeTime": 1549137067000,
-            "contentHash": "ca0e996797eba19989adbe11ac7210b965d55069",
+            "size": 812,
+            "modifiedTime": 1549161309000,
+            "changeTime": 1549161309000,
+            "contentHash": "98d99535a3004320f64c867185fea347d05eccaf",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -180,7 +187,9 @@
             "changeTime": 1549089503000,
             "contentHash": "3350a9db8000d97273374634f5b36ed7107ea815",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -193,7 +202,9 @@
             "changeTime": 1549089503000,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -206,7 +217,9 @@
             "changeTime": 1549089503000,
             "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -219,7 +232,9 @@
             "changeTime": 1549089503000,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -227,12 +242,13 @@
         {
             "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/aura/Demo/DemoController.js",
             "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1549089503000,
-            "changeTime": 1549089503000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "size": 1059,
+            "modifiedTime": 1549167466000,
+            "changeTime": 1549167466000,
+            "contentHash": "ef7e1eef9fa5ff709cbd45921d70cb1535f0f866",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -245,7 +261,9 @@
             "changeTime": 1549089503000,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -258,7 +276,9 @@
             "changeTime": 1549089503000,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -267,11 +287,13 @@
             "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/aura/EventDemo",
             "isDirectory": true,
             "size": 374,
-            "modifiedTime": 1549091119000,
-            "changeTime": 1549091119000,
+            "modifiedTime": 1549150906000,
+            "changeTime": 1549150906000,
             "contentHash": "89ade855ead422f0901e60a0810e6618f694ec88",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -284,7 +306,9 @@
             "changeTime": 1549091119000,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -292,12 +316,13 @@
         {
             "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/aura/EventDemo/EventDemo.cmp",
             "isDirectory": false,
-            "size": 477,
-            "modifiedTime": 1549136877000,
-            "changeTime": 1549136877000,
-            "contentHash": "2356b21165f4892eb90ba2d25ba4aab713de6d41",
+            "size": 564,
+            "modifiedTime": 1549161193000,
+            "changeTime": 1549161193000,
+            "contentHash": "715e38b5c192c88fe4e3f046a3cb8385febadfea",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -310,7 +335,9 @@
             "changeTime": 1549091119000,
             "contentHash": "43bcd24f2b68b27f748a7669b1a6bda9a994156c",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -323,7 +350,9 @@
             "changeTime": 1549091119000,
             "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -336,7 +365,9 @@
             "changeTime": 1549091119000,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -349,20 +380,23 @@
             "changeTime": 1549091119000,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/aura/EventDemo/EventDemoController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/aura/EventDemo/EventDemoController.js",
             "isDirectory": false,
+            "size": 3023,
+            "modifiedTime": 1549156942000,
+            "changeTime": 1549156942000,
+            "contentHash": "cf6e4414e108d565e7cb6efde73c392a74632760",
             "isMetadataFile": false,
-            "size": 1593,
-            "modifiedTime": 1549137607000,
-            "changeTime": 1549137607000,
-            "contentHash": "bb4a2ab35f3fc572a1d3fb07de96913e97603d33"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -375,7 +409,9 @@
             "changeTime": 1549091119000,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -388,7 +424,9 @@
             "changeTime": 1549091119000,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -401,7 +439,9 @@
             "changeTime": 1549092092000,
             "contentHash": "b268c2b479269045230f8c3ca80c6d8455a0da5e",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -414,7 +454,9 @@
             "changeTime": 1549092111000,
             "contentHash": "0a3403ec872b14b6dd49efb86875a3ce0185c85c",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -427,7 +469,9 @@
             "changeTime": 1549092813000,
             "contentHash": "b2e0138165e52f185c2afd6bf8c5d72e550af8e6",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -440,7 +484,847 @@
             "changeTime": 1549092092000,
             "contentHash": "bbbc7c4793302b52cbf44ae81130faf234f86829",
             "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/settings",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/settings",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1549150906000,
+            "changeTime": 1549150906000,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 306,
+            "modifiedTime": 1549171597000,
+            "changeTime": 1549171597000,
+            "isWorkspace": false,
+            "contentHash": "1a1efd94c3f6656ca89d28d52834bea3255813ee"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/myfiles",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/myfiles",
+            "isDirectory": true,
+            "size": 306,
+            "modifiedTime": 1549157002000,
+            "changeTime": 1549157002000,
+            "contentHash": "85917875f97b79410c8e58e019aa0d7672c3091d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/settings/OrgPreference.settings-meta.xml",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/settings/OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "size": 6383,
+            "modifiedTime": 1549150906000,
+            "changeTime": 1549150906000,
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/myfiles/compressed.tracemonkey-pldi-09.pdf",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/myfiles/compressed.tracemonkey-pldi-09.pdf",
+            "isDirectory": false,
+            "size": 1016315,
+            "modifiedTime": 1549150906000,
+            "changeTime": 1549150906000,
+            "contentHash": "0d281938d3ff2377541704cab6ba1c4408420733",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/myfiles/custom-elements-es5-adapter.js",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/myfiles/custom-elements-es5-adapter.js",
+            "isDirectory": false,
+            "size": 930,
+            "modifiedTime": 1537207332000,
+            "changeTime": 1549151954000,
+            "contentHash": "8525d75daee3b8f23a0ae371a03c9202e3944699",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/myfiles/pdf.js",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/myfiles/pdf.js",
+            "isDirectory": false,
+            "size": 304386,
+            "modifiedTime": 1549157300000,
+            "changeTime": 1549157300000,
+            "contentHash": "164c47e0700c3896387b6942a3a844103071ac08",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/myfiles/pdf.js.map",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/myfiles/pdf.js.map",
+            "isDirectory": false,
+            "size": 1175726,
+            "modifiedTime": 1549152508000,
+            "changeTime": 1549156557000,
+            "contentHash": "51ca98e3b00ac6f4fcc0e21c00a8eab88de3c4f1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/myfiles/pdf.worker.js",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/myfiles/pdf.worker.js",
+            "isDirectory": false,
+            "size": 728683,
+            "modifiedTime": 1549152552000,
+            "changeTime": 1549156557000,
+            "contentHash": "d0419d6aadc4ab297c4c4e38695be87e1aaae717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/myfiles/pdf.worker.js.map",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/myfiles/pdf.worker.js.map",
+            "isDirectory": false,
+            "size": 3043945,
+            "modifiedTime": 1549152513000,
+            "changeTime": 1549156557000,
+            "contentHash": "b0644b04950c30d2fb64562f44d6c635c65ab506",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/myfiles.resource-meta.xml",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/myfiles.resource-meta.xml",
+            "isDirectory": false,
+            "size": 222,
+            "modifiedTime": 1549150906000,
+            "changeTime": 1549150906000,
+            "contentHash": "2a135e336ba8b6bc150d4e94f6abb174d496a0f4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/myfiles/pdf.worker.worker.js",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/myfiles/pdf.worker.worker.js",
+            "isDirectory": false,
+            "size": 728683,
+            "modifiedTime": 1549152552000,
+            "changeTime": 1549156993000,
+            "contentHash": "d0419d6aadc4ab297c4c4e38695be87e1aaae717",
+            "isMetadataFile": false,
             "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1549172689000,
+            "changeTime": 1549161118000,
+            "contentHash": "813ebb80f01318e4b4b0862526cf2d55178af7e1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core",
+            "isDirectory": true,
+            "size": 340,
+            "modifiedTime": 1549160434000,
+            "changeTime": 1549160434000,
+            "contentHash": "e9974aadb796cfb307ac7eb95f423ae7d102755a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets",
+            "isDirectory": true,
+            "size": 306,
+            "modifiedTime": 1549159967000,
+            "changeTime": 1549160205000,
+            "contentHash": "aa577b51f5f34b56b9944f37f7a4a26d871f515a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/mime-types",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/mime-types",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160205000,
+            "contentHash": "0b7980a14bf592163ef821008b93389bcb4650ca",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/external",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/external",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160205000,
+            "contentHash": "ff367fe109d284e7c6032106e556346cc1636657",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/CORSWorker.js",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/CORSWorker.js",
+            "isDirectory": false,
+            "size": 548,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160204000,
+            "contentHash": "5df4150c8d7732c25cab4dd2e4b7a4dc61f2eb89",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/CoreControls.js",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/CoreControls.js",
+            "isDirectory": false,
+            "size": 781555,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160204000,
+            "contentHash": "23ab868e790ff6014fe62039a76f85c3b3c2c168",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/CoreWorker.js",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/CoreWorker.js",
+            "isDirectory": false,
+            "size": 55276,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160204000,
+            "contentHash": "aa2a5873219ff3befa833a1755259b489d67ef83",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/DecryptWorker.js",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/DecryptWorker.js",
+            "isDirectory": false,
+            "size": 20669,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160204000,
+            "contentHash": "cd98c81c963c04030499a022586269a57574365b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/1px.png",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/1px.png",
+            "isDirectory": false,
+            "size": 119,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160205000,
+            "contentHash": "d019ca6a687ffa4e8f99cbfc0bae0b17a99d5447",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/dragginghand.cur",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/dragginghand.cur",
+            "isDirectory": false,
+            "size": 1470,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160205000,
+            "contentHash": "5520840de9bc2fbfa1dd86617c34fe83fffc4101",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/dragginghand.png",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/dragginghand.png",
+            "isDirectory": false,
+            "size": 130,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160205000,
+            "contentHash": "083460ea15c81560b449b52ba4b15f53d9633609",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/hand.cur",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/hand.cur",
+            "isDirectory": false,
+            "size": 1470,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160205000,
+            "contentHash": "66aed7250a70d5e91445d8ca0ec8d0a18c7e8286",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/hand.png",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/hand.png",
+            "isDirectory": false,
+            "size": 164,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160205000,
+            "contentHash": "e6239859251b7c84beba78f9f5198923e8716fcd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/mime-types/test.mem",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/mime-types/test.mem",
+            "isDirectory": false,
+            "size": 0,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160205000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/mime-types/test.nmf",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/mime-types/test.nmf",
+            "isDirectory": false,
+            "size": 0,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160205000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/mime-types/test.pexe",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/mime-types/test.pexe",
+            "isDirectory": false,
+            "size": 0,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160205000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/mime-types/test.res",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/mime-types/test.res",
+            "isDirectory": false,
+            "size": 0,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160205000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/mime-types/test.wasm",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/mime-types/test.wasm",
+            "isDirectory": false,
+            "size": 0,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160205000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/mime-types/test.xod",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/assets/mime-types/test.xod",
+            "isDirectory": false,
+            "size": 0,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160205000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/external/Promise.js",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/external/Promise.js",
+            "isDirectory": false,
+            "size": 8242,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160205000,
+            "contentHash": "e98493f2c6b867abfa922521121e6b1b6ee80ac5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/external/decode.min.js",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/external/decode.min.js",
+            "isDirectory": false,
+            "size": 152241,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160205000,
+            "contentHash": "96508dac09a6cfb984f4e2b666d828edf6ec8b9e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/external/html2canvas.min.js",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/external/html2canvas.min.js",
+            "isDirectory": false,
+            "size": 165643,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160205000,
+            "contentHash": "51ac9f3fd3c38099c3b091860b93f8918ed8ebb5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/external/jquery-3.2.1.min.js",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/external/jquery-3.2.1.min.js",
+            "isDirectory": false,
+            "size": 86659,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160205000,
+            "contentHash": "1055018c28ab41087ef9ccefe411606893dabea2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/external/pako_inflate.min.js",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/external/pako_inflate.min.js",
+            "isDirectory": false,
+            "size": 23156,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160205000,
+            "contentHash": "f63a42545cc4c0cf597abd801e0b182b61642f70",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/external/rawinflate.js",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/external/rawinflate.js",
+            "isDirectory": false,
+            "size": 23205,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160205000,
+            "contentHash": "b8cf4818ba2ebc5a8a956708491341a9d38e8894",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib.resource-meta.xml",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib.resource-meta.xml",
+            "isDirectory": false,
+            "size": 222,
+            "modifiedTime": 1549160168000,
+            "changeTime": 1549160168000,
+            "contentHash": "2a135e336ba8b6bc150d4e94f6abb174d496a0f4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/pdf",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/pdf",
+            "isDirectory": true,
+            "size": 340,
+            "modifiedTime": 1549166315000,
+            "changeTime": 1549166315000,
+            "contentHash": "d6aefc9fe96609f7e242ecd2d062c4a8e21500b5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/pdf/PDFNet.js",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/pdf/PDFNet.js",
+            "isDirectory": false,
+            "size": 1437183,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160442000,
+            "contentHash": "1896e8591895ae281885b504bedef7654dcb76f0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/pdf/PDFworker.js",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/pdf/PDFworker.js",
+            "isDirectory": false,
+            "size": 79585,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160442000,
+            "contentHash": "a58df68b83aa98b53ae7cf1491627ce7141c3235",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/pdf/ResizableWorker.js",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/pdf/ResizableWorker.js",
+            "isDirectory": false,
+            "size": 184,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160442000,
+            "contentHash": "d2a1fa5137a02036073c13fa5d464848449afd14",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/pdf/SimpleWorker.nmf",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/pdf/SimpleWorker.nmf",
+            "isDirectory": false,
+            "size": 150,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160442000,
+            "contentHash": "5221ddf461696d2f25b621ed0d1d225989f1a44d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/pdf/SimpleWorker.pexe",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/pdf/SimpleWorker.pexe",
+            "isDirectory": false,
+            "size": 66428,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160442000,
+            "contentHash": "5fc39b1003b423fd69c08b43a2070b24f6d4cce4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/pdf/pdfnet.res",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/pdf/pdfnet.res",
+            "isDirectory": false,
+            "size": 1762214,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549160442000,
+            "contentHash": "71720eb3f6ccd02a67b4ad23c059b78451e8c5d7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1549161059000,
+            "changeTime": 1549161059000,
+            "contentHash": "1be7156aad6bde26a6bd350239bb33114918fce8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui/build",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui/build",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1549161059000,
+            "changeTime": 1549161059000,
+            "contentHash": "807702eac4bc2b9fc460eb9f7410322e0bc049c7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui/build/assets",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui/build/assets",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1548188120000,
+            "changeTime": 1549161054000,
+            "contentHash": "7ff38cf0930f1dacc2a29d62255b068d4106eabe",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui/build/i18n",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui/build/i18n",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1548188120000,
+            "changeTime": 1549161054000,
+            "contentHash": "586f076871fe03571ed707893fc3f21f88231fab",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui/build/assets/pdftron.ico",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui/build/assets/pdftron.ico",
+            "isDirectory": false,
+            "size": 15086,
+            "modifiedTime": 1548188120000,
+            "changeTime": 1549161054000,
+            "contentHash": "3057bcb5aa73d1dca4b603843ceb2e7824fb6b69",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui/build/i18n/translation-en.json",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui/build/i18n/translation-en.json",
+            "isDirectory": false,
+            "size": 4484,
+            "modifiedTime": 1548188120000,
+            "changeTime": 1549161054000,
+            "contentHash": "7cfd1b954ea9043411d7a11251f59b58d8c99246",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui/build/i18n/translation-fr.json",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui/build/i18n/translation-fr.json",
+            "isDirectory": false,
+            "size": 4824,
+            "modifiedTime": 1548188120000,
+            "changeTime": 1549161054000,
+            "contentHash": "ba78baaaedbfd20892fd0f588c1e0e06bfb4d9bc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui/build/i18n/translation-nl.json",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui/build/i18n/translation-nl.json",
+            "isDirectory": false,
+            "size": 4852,
+            "modifiedTime": 1548188120000,
+            "changeTime": 1549161054000,
+            "contentHash": "fee6e19efd08113481332295d3b392120689e9e6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui/build/i18n/translation-zh_cn.json",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui/build/i18n/translation-zh_cn.json",
+            "isDirectory": false,
+            "size": 4452,
+            "modifiedTime": 1548188120000,
+            "changeTime": 1549161054000,
+            "contentHash": "d8b9895f25d731f2ac3f9ed9d8393f0fd7743513",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui/build/index.html",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui/build/index.html",
+            "isDirectory": false,
+            "size": 619,
+            "modifiedTime": 1548188120000,
+            "changeTime": 1549161054000,
+            "contentHash": "9d18484d9f2be3ae4224e6e9a9c42e048a8346f1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui/build/style.css",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui/build/style.css",
+            "isDirectory": false,
+            "size": 50217,
+            "modifiedTime": 1548188120000,
+            "changeTime": 1549161054000,
+            "contentHash": "8b73abac3c07a6dd32049b8afed791c175b4433d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui/build/webviewer-ui.min.js",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/ui/build/webviewer-ui.min.js",
+            "isDirectory": false,
+            "size": 735817,
+            "modifiedTime": 1549167165000,
+            "changeTime": 1549166969000,
+            "contentHash": "23f8c5e47bdc5fc8451ea3c203c80cf16596cc61",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/webviewer.min.js",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/webviewer.min.js",
+            "isDirectory": false,
+            "size": 23530,
+            "modifiedTime": 1548188112000,
+            "changeTime": 1549161118000,
+            "contentHash": "8493c1a304bb59091953f0f971f17f5261e46bb8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/pdf/lean",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/pdf/lean",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1549167063000,
+            "changeTime": 1549167063000,
+            "contentHash": "61cd3259c2c550c81968399e6f6cdde804b83458",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/pdf/lean/PDFWorkerSubzero.nmf",
+        {
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/lib/core/pdf/lean/PDFWorkerSubzero.nmf",
+            "isDirectory": false,
+            "size": 147,
+            "modifiedTime": 1548188118000,
+            "changeTime": 1549166327000,
+            "contentHash": "1719c5b9dee571751ce84f44e58b798fd8736368",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/other",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/other",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1549171572000,
+            "changeTime": 1549171572000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+    ],
+    [
+        "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/other.resource-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/sisardor/Github/salesforce/lwc-hello-world/force-app/main/default/staticresources/other.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1549171584000,
+            "changeTime": 1549171584000,
+            "contentHash": "2a135e336ba8b6bc150d4e94f6abb174d496a0f4"
         }
     ]
 ]

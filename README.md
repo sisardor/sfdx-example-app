@@ -10,5 +10,4 @@
 
 
 ## Issues
-
-
+https://help.salesforce.com/articleView?id=pages_static_resources_create.htm&type=5

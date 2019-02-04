@@ -1,4 +1,7 @@
 <aura:application extends="force:slds">
+  <!-- Stand-alone static resources -->
+  <ltng:require scripts="{!$Resource.lib + '/webviewer.min.js'}" afterScriptsLoaded="{!c.scriptsLoaded}"/>
+  
   <div class="slds-text-heading_large slds-text-align_center slds-box">
     My Demo app
   </div>
@@ -20,4 +23,5 @@
   </div>
 
   <canvas id="the-canvas"></canvas>
+  <div id='viewer' style='width: 1024px; height: 600px;'></div>
 </aura:application>
