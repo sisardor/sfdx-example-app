@@ -45,7 +45,7 @@ export default class HelloWorld extends LightningElement {
     console.log()
     console.log(PDFTron, this)
     let me = this;
-    var url = 'https://energy-dream-2305-dev-ed.lightning.force.com/resource/1549157318000/myfiles/compressed.tracemonkey-pldi-09.pdf';
+    var url = 'https://customer-agility-8590-dev-ed.lightning.force.com/resource/1549430028000/myfiles/compressed.tracemonkey-pldi-09.pdf';
     // const viewer = this.template.querySelector('div.pdf_viewer');
     let viewerElement = this.template.querySelector('div')//('div.pdf_viewer');
     let myWebViewer = new PDFTron.WebViewer({
@@ -57,8 +57,8 @@ export default class HelloWorld extends LightningElement {
     
     viewerElement.addEventListener('ready', function() {
       let CoreControls = viewerElement.querySelector('iframe').contentWindow.CoreControls;
-      console.log(CoreControls)
-      console.log(CoreControls.setPDFWorkerPath);
+      console.log(myWebViewer)
+      // console.log(CoreControls.setPDFWorkerPath);
       
       
     })
