@@ -47,26 +47,20 @@ export default class HelloWorld extends LightningElement {
     console.log()
     console.log(PDFTron, this)
     let me = this;
-    var url = resourceUrl + '/../myfiles/webviewer-demo-annotated.pdf';
+    // var url = resourceUrl + '/../myfiles/webviewer-demo-annotated.pdf';
+    // var url = resourceUrl + '/../myfiles/webviewer-demo-annotated.xod';
+    var url = resourceUrl + '/../myfiles/word.docx';
 
     // const viewer = this.template.querySelector('div.pdf_viewer');
-    let viewerElement = this.template.querySelector('div')//('div.pdf_viewer');
+    let viewerElement = this.template.querySelector('div')
     let myWebViewer = new PDFTron.WebViewer({
       path: resourceUrl, // path to the PDFTron 'lib' folder on your server
-      l: 'demo:sisakov@pdftron.com:750d07bd01a53f57075ae2b0404e99b52d2335d64b4a5e4767',
       custom: JSON.stringify({myObj:'test'}),
       initialDoc: url,
-      config: myfilesUrl + '/config.js'
+      config: myfilesUrl + '/config.js',
+      // fullAPI: true,
     }, viewerElement);
 
     viewerElement.addEventListener('ready', function() {})
-
-    console.log(myWebViewer);
-
-  }
-
-  @track greeting = 'World';
-  changeHandler(event) {
-    this.greeting = event.target.value;
   }
 }
