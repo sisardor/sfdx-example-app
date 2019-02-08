@@ -3,6 +3,7 @@ import NAME_Fields from '@salesforce/schema/Account.Name';
 import { ShowToastEvent } from 'lightning/platformShowToastEvent';
 import { loadStyle, loadScript } from 'lightning/platformResourceLoader';
 import resourceUrl from '@salesforce/resourceUrl/lib';
+import myfilesUrl from '@salesforce/resourceUrl/myfiles';
 
 export default class HelloWorld extends LightningElement {
   divHeight = 600;
@@ -14,10 +15,11 @@ export default class HelloWorld extends LightningElement {
     this.uiInitialized = true;
 
     Promise.all([
-        loadScript(this, resourceUrl + '/webviewer.min.js')
+        loadScript(this, resourceUrl + '/webviewer.min.js'),
+        loadScript(this, resourceUrl + '/../myfiles/license-keyz.js')
     ])
     .then(() => {
-       
+
        this.initUI();
     })
     .catch(error => {
@@ -45,26 +47,22 @@ export default class HelloWorld extends LightningElement {
     console.log()
     console.log(PDFTron, this)
     let me = this;
-    var url = 'https://customer-agility-8590-dev-ed.lightning.force.com/resource/1549430028000/myfiles/compressed.tracemonkey-pldi-09.pdf';
+    var url = resourceUrl + '/../myfiles/webviewer-demo-annotated.pdf';
+
     // const viewer = this.template.querySelector('div.pdf_viewer');
     let viewerElement = this.template.querySelector('div')//('div.pdf_viewer');
     let myWebViewer = new PDFTron.WebViewer({
       path: resourceUrl, // path to the PDFTron 'lib' folder on your server
       l: 'demo:sisakov@pdftron.com:750d07bd01a53f57075ae2b0404e99b52d2335d64b4a5e4767',
+      custom: JSON.stringify({myObj:'test'}),
       initialDoc: url,
-      // initialDoc: '/path/to/my/file.pdf',  // You can also use documents on your server
+      config: myfilesUrl + '/config.js'
     }, viewerElement);
-    
-    viewerElement.addEventListener('ready', function() {
-      let CoreControls = viewerElement.querySelector('iframe').contentWindow.CoreControls;
-      console.log(myWebViewer)
-      // console.log(CoreControls.setPDFWorkerPath);
-      
-      
-    })
-    
+
+    viewerElement.addEventListener('ready', function() {})
+
     console.log(myWebViewer);
-    
+
   }
 
   @track greeting = 'World';
@@ -72,5 +70,3 @@ export default class HelloWorld extends LightningElement {
     this.greeting = event.target.value;
   }
 }
-
-

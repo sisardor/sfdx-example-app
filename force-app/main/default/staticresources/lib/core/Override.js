@@ -1,5 +1,7 @@
-(function(exports){
-    console.log('Hello World!');
-    console.log(exports.CoreControls);
-    exports.CoreControls.setPDFWorkerPath('sarodr')
-})(window);
+(function(exports) {
+console.log('override')
+// exports.CoreControls.setPDFWorkerPath('worker/lean')
+// exports.CoreControls.setPDFResourcePath('../../../')
+// exports.CoreControls.setPDFAsmPath('asm/lib/core/pdf')
+
+})(typeof window === 'undefined' ? this : window);
