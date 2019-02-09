@@ -514,6 +514,11 @@
 
       return url;
     },
+    _onloadIfram: function(obj){
+      console.log('***********');
+      console.log(obj)
+      console.log(obj.contentWindow);
+    },
     _createHTML5: function() {
       var me = this;
       var iframeSource = this.options.html5Path + this._getHTML5OptionsURL();
@@ -529,7 +534,8 @@
       rcFrame.setAttribute('allowfullscreen', true);
       rcFrame.setAttribute('webkitallowfullscreen', true);
       rcFrame.setAttribute('mozallowfullscreen', true);
-
+      rcFrame.onload = this._onloadIfram.bind(this);
+      
       if (this.options.backgroundColor) {
         rcFrame.setAttribute('data-bgcolor', this.options.backgroundColor);
       }

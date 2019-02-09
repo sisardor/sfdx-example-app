@@ -1,10 +1,35 @@
-import { LightningElement, track } from 'lwc';
+import { LightningElement, track, wire } from 'lwc';
 import NAME_Fields from '@salesforce/schema/Account.Name';
 import { ShowToastEvent } from 'lightning/platformShowToastEvent';
+import { CurrentPageReference } from 'lightning/navigation';
 import { loadStyle, loadScript } from 'lightning/platformResourceLoader';
 import resourceUrl from '@salesforce/resourceUrl/lib';
+import myfilesUrl from '@salesforce/resourceUrl/myfiles';
+import { registerListener, unregisterAllListeners } from 'c/pubsub';
 
 export default class HelloWorld extends LightningElement {
+  constructor() {
+    super();
+    this.template.addEventListener('notification', this.handleNotification.bind(this));
+  }
+  @wire(CurrentPageReference) pageRef;
+
+  handleNotification(){
+    console.log("Code runs when event is received");
+  }
+  connectedCallback() {
+      registerListener('fileSelected', this.handleFileSelected, this);
+  }
+
+  disconnectedCallback() {
+      unregisterAllListeners(this);
+  }
+
+  handleFileSelected(file) {
+    console.log('handleFileSelected', file);
+    this.iframeWindow.postMessage({type: 'OPEN_DOCUMENT', file: file})
+  }
+
   divHeight = 600;
   uiInitialized = false;
   renderedCallback() {
@@ -14,58 +39,29 @@ export default class HelloWorld extends LightningElement {
     this.uiInitialized = true;
 
     Promise.all([
-        loadScript(this, resourceUrl + '/webviewer.min.js')
+        loadScript(this, resourceUrl + '/webviewer.js')
     ])
     .then(() => {
-       
        this.initUI();
     })
-    .catch(error => {
-      console.log(error);
-      if (error.body) {
-        this.dispatchEvent(
-            new ShowToastEvent({
-                title: 'Error loading D3',
-                message: error.body.message,
-                variant: 'error',
-            }),
-        );
-      } else {
-        this.dispatchEvent(
-          new ShowToastEvent({
-              title: 'Error loading D3',
-              message: error.message,
-              variant: 'error',
-          }),
-        );
-      }
-    });
+    .catch(console.error);
   }
   initUI() {
-    console.log()
-    console.log(PDFTron, this)
-    let me = this;
-    var url = 'https://customer-agility-8590-dev-ed.lightning.force.com/resource/1549430028000/myfiles/compressed.tracemonkey-pldi-09.pdf';
-    // const viewer = this.template.querySelector('div.pdf_viewer');
-    let viewerElement = this.template.querySelector('div')//('div.pdf_viewer');
-    let myWebViewer = new PDFTron.WebViewer({
+    let _this = this;
+    var url = resourceUrl + '/../myfiles/webviewer-demo-annotated.pdf';
+    // var url = resourceUrl + '/../myfiles/webviewer-demo-annotated.xod';
+    // var url = resourceUrl + '/../myfiles/word.docx';
+
+    let viewerElement = this.template.querySelector('div')
+    let viewer = new PDFTron.WebViewer({
       path: resourceUrl, // path to the PDFTron 'lib' folder on your server
-      l: 'demo:sisakov@pdftron.com:750d07bd01a53f57075ae2b0404e99b52d2335d64b4a5e4767',
       initialDoc: url,
-      // initialDoc: '/path/to/my/file.pdf',  // You can also use documents on your server
+      config: myfilesUrl + '/config.js',
+      // fullAPI: true,
     }, viewerElement);
-    
+
     viewerElement.addEventListener('ready', function() {
-      let CoreControls = viewerElement.querySelector('iframe').contentWindow.CoreControls;
-      console.log(myWebViewer)
-      // console.log(CoreControls.setPDFWorkerPath);
-      
-      
+      _this.iframeWindow = viewerElement.querySelector('iframe').contentWindow
     })
-    
-    console.log(myWebViewer);
-    
   }
 }
-
-

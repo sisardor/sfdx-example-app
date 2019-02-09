@@ -18,3 +18,4 @@
 })
 //https://java-innovation-7128-dev-ed.lightning.force.com/static/lib/ui/build/index.html
 //https://java-innovation-7128-dev-ed.lightning.force.com/resource/1549157318000/lib/webviewer.min.js
+// https://developer.salesforce.com/blogs/developer-relations/2017/01/lightning-visualforce-communication.html

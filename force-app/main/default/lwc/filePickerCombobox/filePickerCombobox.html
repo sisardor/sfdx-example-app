@@ -1,0 +1,29 @@
+<template>
+    <lightning-card  title="Controller">
+        <div class="slds-var-p-around_medium">
+            <lightning-combobox
+                class="slds-p-bottom_medium"
+                name="progress"
+                label="Choose a file to view"
+                value={value}
+                placeholder="Select file"
+                options={options}
+                onchange={handleChange} ></lightning-combobox>
+            <lightning-input 
+                class="slds-p-bottom_small"
+                type="url" 
+                label="Or pass a url to a document" 
+                name="input1" 
+                value={fileUrl} 
+                onchange={handleUrlInput}>
+            </lightning-input>
+            <lightning-button 
+                class="slds-p-bottom_medium"
+                label="Submit" 
+                title="Submit" 
+                onclick={handleButton}>
+            </lightning-button>
+            <lightning-input class="slds-p-top_medium" type="file" label="Or choose your own" onchange={handleFilePick}></lightning-input>
+        </div>
+    </lightning-card>
+</template>
